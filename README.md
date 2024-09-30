@@ -24,4 +24,4 @@ Welcome to my GitHub profile! I specialize in **programming** and **database man
 - Email: [iagobatista0203@gmail.com](mailto:iagobatista0203@gmail.com)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoBatistaF&show_icons=true&theme=radical)
